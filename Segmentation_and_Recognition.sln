@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Segmentation_and_Recognition", "Segmentation_and_Recognition\Segmentation_and_Recognition.csproj", "{53720C07-BCF9-4C18-8454-08F440216091}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53720C07-BCF9-4C18-8454-08F440216091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53720C07-BCF9-4C18-8454-08F440216091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53720C07-BCF9-4C18-8454-08F440216091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53720C07-BCF9-4C18-8454-08F440216091}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B632E386-85BC-4411-95C6-322480B24451}
+	EndGlobalSection
+EndGlobal
